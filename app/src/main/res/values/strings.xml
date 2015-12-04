@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+
+    <string name="app_transition_list_to_toolbar">list_to_toolbar</string>
+    <string name="show_first_text">Show First Text</string>
+    <string name="show_second_text">Show Last Text</string>
+</resources>
